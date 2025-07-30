@@ -22,4 +22,4 @@ Some of my favorite WIP projects:
 
 > I've got a lot of other stuff in my vault, but time will tell what I do
 
-*- 12th*
+*- 12th ✌🏻*
