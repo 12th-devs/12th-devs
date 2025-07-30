@@ -13,6 +13,9 @@ Still learning, but here's what I use so far:
 - **Other Stuff:** Node.js (sometimes), Figma, ChatGPT if you count that
 - **Browser:** Zen, best browser around.
 
+## Stats 
+[![12th-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=12th-devs)](https://github.com/12th-devs/github-readme-stats)
+
 ## Projects  
 Some of my favorite WIP projects:  
 - **[Advanced Tab Groups](https://github.com/Anoms12/Advanced-Tab-Groups)** –  Improves Tab Folders & Groups for Zen Browser
